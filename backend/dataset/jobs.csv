@@ -1,0 +1,11 @@
+Job Title,Company,Skills
+AI Engineer,Google,"python machine learning tensorflow docker git"
+ML Engineer,Microsoft,"python fastapi sql docker machine learning"
+Data Scientist,Amazon,"python sql pandas numpy machine learning"
+Computer Vision Engineer,NVIDIA,"python opencv tensorflow pytorch"
+NLP Engineer,OpenAI,"python nlp transformers fastapi docker"
+Backend Developer,Netflix,"python fastapi docker sql git"
+Software Engineer,Adobe,"java sql git docker react"
+Data Analyst,IBM,"sql python pandas excel"
+Cloud Engineer,Oracle,"aws docker python kubernetes"
+AI Researcher,Meta,"python deep learning pytorch transformers"
